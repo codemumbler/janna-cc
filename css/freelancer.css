@@ -132,7 +132,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 1.6em;
+        font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -200,6 +200,10 @@ section.success a.active {
 
     section.first {
         padding-top: 75px;
+    }
+    
+    .navbar-fixed-top .navbar-brand {
+        font-size: 1.5em;
     }
 }
 
